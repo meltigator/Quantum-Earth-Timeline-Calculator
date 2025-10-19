@@ -17,6 +17,7 @@ Simulation of "what-if" scenarios
 Demonstration of complex probabilistic calculations
 
 Factors to Consider
+
 1. Geological Factors
 
 Tectonic movement (supervolcano risk: Yellowstone, Campi Flegrei)
@@ -49,4 +50,14 @@ Quantum vacuum decay (theoretical)
 Higgs field fluctuations
 Unexpected cosmic events
 
-Script architecture
+6. Monte Carlo Simulation
+
+10,000+ iterations
+Probability distribution for each event
+Statistical aggregation of results
+
+7. Quantum Component
+
+Using quantum fluctuations to model uncertainty
+Simulation of "wave function collapse" for critical events
+Entanglement between related factors (e.g., climate-geology)
