@@ -20,9 +20,9 @@ Factors to Consider
 
 1. Geological Factors
 
-Tectonic movement (supervolcano risk: Yellowstone, Campi Flegrei)
-Magnetic reversal (ongoing, could complete in 1,000-2,000 years)
-Global seismic activity
+- Tectonic movement (supervolcano risk: Yellowstone, Campi Flegrei)
+- Magnetic reversal (ongoing, could complete in 1,000-2,000 years)
+- Global seismic activity
 
 2. Astronomical Factors
 
