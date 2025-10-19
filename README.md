@@ -18,7 +18,7 @@ Demonstration of complex probabilistic calculations
 
 Factors to Consider
 
-1. Geological Factors
+1. Geological Factors :
 
 - Tectonic movement (supervolcano risk: Yellowstone, Campi Flegrei)
 - Magnetic reversal (ongoing, could complete in 1,000-2,000 years)
@@ -26,38 +26,38 @@ Factors to Consider
 
 2. Astronomical Factors
 
-Asteroid impacts (NASA NEO database)
-Orbital variation (Milanković cycles)
-Solar expansion (in ~5 billion years)
-Nearby supernova events
+- Asteroid impacts (NASA NEO database)
+- Orbital variation (Milanković cycles)
+- Solar expansion (in ~5 billion years)
+- Nearby supernova events
 
 3. Climate Factors
 
-Global warming
-Ocean acidification
-Climate tipping points
+- Global warming
+- Ocean acidification
+- Climate tipping points
 
 4. Anthropogenic Factors
 
-Nuclear risk
-Bioengineering
-Uncontrolled AI
-Resource depletion
+- Nuclear risk
+- Bioengineering
+- Uncontrolled AI
+- Resource depletion
 
 5. Quantum/Physical Factors
 
-Quantum vacuum decay (theoretical)
-Higgs field fluctuations
-Unexpected cosmic events
+- Quantum vacuum decay (theoretical)
+- Higgs field fluctuations
+- Unexpected cosmic events
 
 6. Monte Carlo Simulation
 
-10,000+ iterations
-Probability distribution for each event
-Statistical aggregation of results
+- 10,000+ iterations
+- Probability distribution for each event
+- Statistical aggregation of results
 
 7. Quantum Component
 
-Using quantum fluctuations to model uncertainty
-Simulation of "wave function collapse" for critical events
-Entanglement between related factors (e.g., climate-geology)
+- Using quantum fluctuations to model uncertainty
+- Simulation of "wave function collapse" for critical events
+- Entanglement between related factors (e.g., climate-geology)
