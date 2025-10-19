@@ -1,5 +1,5 @@
 # Quantum-Earth-Timeline-Calculator
-Quantum Probabilistic Analysis of PlanetaryHabitability &amp; Extinction Events
+Quantum Probabilistic Analysis of Planetary Habitability &amp; Extinction Events
 
 This project combines physics, mathematics, and simulation. Structure analysis for scientific and realistic development.
 Reliability Assessment
